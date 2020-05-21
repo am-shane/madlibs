@@ -1,0 +1,8 @@
+once upon a time there was a <adjective1> , <adjective2> <noun1> who 
+enjoyed to <verb1> and <verb2> something or rather.
+this is another line
+and here is yet another line <print-these-without-brackets-or-dashes>
+are we getting this yet?
+<test1> 
+<test2> <test-3>
+everything should be written to the correct lines
